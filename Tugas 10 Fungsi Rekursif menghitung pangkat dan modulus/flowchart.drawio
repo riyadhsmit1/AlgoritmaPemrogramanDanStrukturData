@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" modified="2023-11-30T04:09:02.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uQUovRBkFRl4-dRnRoQe" version="22.1.5" type="device">
+  <diagram name="Page-1" id="a54dXJfwvHpr4bPgxGBZ">
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jzwkM1PvXrok9i4Oe-Ta-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzwkM1PvXrok9i4Oe-Ta-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jzwkM1PvXrok9i4Oe-Ta-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="365" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jzwkM1PvXrok9i4Oe-Ta-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424.50666666666666" y="200" as="sourcePoint" />
+            <mxPoint x="424" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jzwkM1PvXrok9i4Oe-Ta-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzwkM1PvXrok9i4Oe-Ta-4" target="jzwkM1PvXrok9i4Oe-Ta-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzwkM1PvXrok9i4Oe-Ta-4" value="Masukan nilai x dan y" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="200" width="225" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jzwkM1PvXrok9i4Oe-Ta-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzwkM1PvXrok9i4Oe-Ta-8" target="jzwkM1PvXrok9i4Oe-Ta-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzwkM1PvXrok9i4Oe-Ta-8" value="jika y = 1 dan jika y &amp;gt; 0 maka x * pangkat (x, y-1)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="400" width="184.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jzwkM1PvXrok9i4Oe-Ta-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzwkM1PvXrok9i4Oe-Ta-10" target="jzwkM1PvXrok9i4Oe-Ta-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzwkM1PvXrok9i4Oe-Ta-10" value="panggil fungsi pangkat x, y" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="560" width="165.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jzwkM1PvXrok9i4Oe-Ta-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzwkM1PvXrok9i4Oe-Ta-12" target="jzwkM1PvXrok9i4Oe-Ta-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzwkM1PvXrok9i4Oe-Ta-12" value="menampilkan output hasil" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="337.82" y="700" width="175.37" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jzwkM1PvXrok9i4Oe-Ta-14" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="365.505" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
